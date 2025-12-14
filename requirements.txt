@@ -1,7 +1,9 @@
 streamlit==1.32.2
-ultralytics==8.0.227
+ultralytics==8.0.196
+
 torch==2.0.1
 torchvision==0.15.2
+
 numpy==1.26.4
 pillow==10.2.0
 pandas==2.2.1
