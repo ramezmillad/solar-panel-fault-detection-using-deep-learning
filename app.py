@@ -1,3 +1,5 @@
+import os
+os.environ["TORCH_HOME"] = "./.torch"
 import streamlit as st
 from ultralytics import YOLO
 import numpy as np
